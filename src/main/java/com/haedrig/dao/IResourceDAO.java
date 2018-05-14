@@ -7,5 +7,6 @@ import com.haedrig.entity.Resource;
 public interface IResourceDAO {
 
 	List<Resource> getAll();
-	
+
+
 }
