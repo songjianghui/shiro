@@ -8,5 +8,5 @@ public interface IResourceDAO {
 
 	List<Resource> getAll();
 
-
+//111
 }
